@@ -8,7 +8,7 @@ require Exporter;
 @ISA = qw(Exporter);
 @EXPORT_OK = qw( allkeys );
 
-$VERSION = '1.01';
+$VERSION = '1.02';
 
 #### constants
 
@@ -512,6 +512,10 @@ keys and values.
 =head1 HISTORY
 
 =over 4
+
+=item v1.02 (11 Mar 2016)
+
+Moved to github, using Build.PL instead of Makefile.PL, added license.
 
 =item v1.01 (26 Jun 2003)
 

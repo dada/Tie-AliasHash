@@ -1,5 +1,6 @@
-AliasHash.pm
-Makefile.PL
+lib/Tie/AliasHash.pm
+Build.PL
 MANIFEST
 README
+Changes
 t/AliasHash.t
