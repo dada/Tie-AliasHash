@@ -24,6 +24,13 @@ DESCRIPTION
     them will change both.
 
 HISTORY
+    v1.02 (11 Mar 2016)
+        Moved to github, using Build.PL instead of Makefile.PL, added
+        license.
+
+    v1.01 (26 Jun 2003)
+        Fixed a bug in the EXISTS sub, now works as documented (thanks wk)
+
     v1.00 (07 Mar 2001)
         First released version
 
